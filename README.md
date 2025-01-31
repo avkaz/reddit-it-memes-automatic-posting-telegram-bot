@@ -56,17 +56,16 @@ Follow these steps to set up and run the bot:
 
     ```python
     # Define constants for time intervals
-MORNING_TIMES = [
-    convert_to_local_time(8, 45),
-]
-
-EVENING_TIMES = [
-    convert_to_local_time(15, 45),
-    convert_to_local_time(20, 45),
-]
+    MORNING_TIMES = [
+        convert_to_local_time(8, 45),
+    ]
+    
+    EVENING_TIMES = [
+        convert_to_local_time(15, 45),
+        convert_to_local_time(20, 45),
+    ]
     ```
 
-    *   Change `'12:00'` to your desired posting time in 24-hour format.
 
 6.  **Docker Setup:**
 

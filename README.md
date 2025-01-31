@@ -18,7 +18,7 @@ Follow these steps to set up and run the bot:
 1.  **Clone the Repository:**
 
     ```bash
-    git clone [https://github.com/yourusername/your-repository.git](https://github.com/yourusername/your-repository.git)
+    git clone https://github.com/avkaz/reddit-it-memes-automatic-posting-telegram-bot.git)
     cd your-repository
     ```
 
@@ -44,6 +44,7 @@ Follow these steps to set up and run the bot:
     ```
 
     *   To get these IDs, have your bot send messages to the respective channels and then check the bot's logs.
+    *   Dont forget to give your bot acess rights to post in these chanels
 
 4.  **Firebase API Key:**
     *   Obtain your Firebase API key from the Firebase Console.

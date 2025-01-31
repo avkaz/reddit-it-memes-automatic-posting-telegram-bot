@@ -9,7 +9,7 @@ from io import BytesIO
 
 
 # Initializing bot
-bot = telebot.TeleBot('6754766101:AAFilPdvF2WNci6E6g74sC7izSWy63iuN30')
+bot = telebot.TeleBot('your_telegram_bot_token')
 
 # Defining target channel ID and status channel ID
 target_channel_id = '-1002115819190'
